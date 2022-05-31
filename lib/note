@@ -1,0 +1,23 @@
+Roadmap to learn Flutter
+Prerequisites
+    -OOPS Concepts 
+    -Native Android
+    -Git
+    -Install Flutter
+
+1. Start with Basics
+    - List
+    - Map
+    - Lambda Function 
+    - Mixins
+    - Async / Await
+    - Future Stream
+
+2. UI Devlopment
+    - Dribble  Clone
+
+3. API Call
+    - HTTP
+    - dio
+    - Retrofit
+    - jsonplaceholder
